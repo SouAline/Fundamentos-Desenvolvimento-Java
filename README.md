@@ -1,2 +1,2 @@
 # Fundamentos Desenvolvimento Java
- Repositório para entrega de trabalhos realizados no instituto INFNET
+ Repositório para entrega  do TP1 do bloco de Fundamentos do Desenvolvimento Java.
